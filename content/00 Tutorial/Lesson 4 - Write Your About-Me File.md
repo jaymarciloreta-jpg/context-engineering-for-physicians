@@ -20,7 +20,7 @@ This is the single most valuable file in your setup. Every answer you get from n
     - Never delete files; move them to 04 Archive.
     - Ask when unsure. Cite sources for clinical claims.
 
-The fill-in-the-blanks version is on [[Templates]].
+The fill-in-the-blanks version is on [[Templates]]. Not a surgeon? Start from the closest of the [[Example CLAUDE Files|examples for eight specialties and roles]].
 
 ## Do it with Claude
 
@@ -41,4 +41,4 @@ rules. Keep it under one page. Show me before saving.
 
 **The habit that makes it compound:** whenever you catch yourself re-explaining something, add it here. "Add a rule to CLAUDE.md so handouts stay under one page."
 
-**Next:** [[Lesson 5 - Your First Project]]
+**Previous:** [[Lesson 3 - Organize Your Vault]] · **Next:** [[Lesson 5 - Your First Project]]

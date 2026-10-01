@@ -47,4 +47,4 @@ so I can run it for any topic.
 
 Why this works: [[Your 20-Minute First Win]] and [[C1 - Context]].
 
-**Next:** [[Lesson 3 - Organize Your Vault]]
+**Previous:** [[Lesson 1 - Install the Tools]] · **Next:** [[Lesson 3 - Organize Your Vault]]

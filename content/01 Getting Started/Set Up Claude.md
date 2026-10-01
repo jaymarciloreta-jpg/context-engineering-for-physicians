@@ -32,6 +32,9 @@ Claude only sees the folders you give it. Start with your vault, nothing else.
 > [!tip] Claude reads CLAUDE.md automatically
 > When Claude opens a folder, it looks for a file named `CLAUDE.md` and reads it before doing anything. That is why your "about me" file goes there. You will write it in [[Set Up Your Workspace in One Sitting]].
 
+> [!note] No desktop app, or cannot install software on a work computer?
+> Use a **Claude Project** on the web instead. Create a Project, paste your `CLAUDE.md` into its custom instructions, and upload your key reference notes as project knowledge. You lose direct access to your vault folder (you will copy results back into Obsidian by hand), but you keep the most important part: Claude knows who you are in every chat inside that Project. Make one Project per major area, such as Research or Teaching.
+
 ## Step 4: Know where the other pieces live
 
 You do not have to set these up today. Just know they exist:

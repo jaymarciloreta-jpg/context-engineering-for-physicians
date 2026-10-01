@@ -30,4 +30,4 @@ and cannot do with the files here.
 
 Stuck? The longer versions are [[Install Obsidian]] and [[Set Up Claude]].
 
-**Next:** [[Lesson 2 - Your First Win]]
+**Previous:** [[00 Tutorial/index|Tutorial overview]] · **Next:** [[Lesson 2 - Your First Win]]

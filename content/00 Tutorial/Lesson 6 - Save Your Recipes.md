@@ -36,4 +36,4 @@ Run any recipe later with: "Run the recipe in skills/weekly-plan.md."
 
 More: [[C3 - Capabilities]].
 
-**Next:** [[Lesson 7 - Connect One Tool]]
+**Previous:** [[Lesson 5 - Your First Project]] · **Next:** [[Lesson 7 - Connect One Tool]]

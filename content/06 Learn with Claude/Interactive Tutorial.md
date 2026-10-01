@@ -3,6 +3,7 @@ title: Interactive Tutorial
 status: published
 tags: [tutorial, skills, getting-started]
 date: 2026-10-01
+description: "Install a free skill and let Claude coach you, lesson by lesson, through setting up your vault, context file, recipes, and schedules."
 ---
 Instead of reading the whole wiki, let Claude teach you. The **Physician Context Coach** is a skill (a plain-text instruction file) that turns Claude into a patient tutor. It interviews you, builds your setup with you, and saves real files in your vault at each step. It remembers where you stopped, so you can do one module a day.
 

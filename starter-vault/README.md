@@ -10,6 +10,12 @@ https://jaymarciloreta-jpg.github.io/context-engineering-for-physicians/
 4. In the Claude desktop app, start a task on this folder and say:
    "Read CLAUDE.md and the README, then help me set up my first real project."
 
+Obsidian settings are already configured: new notes go to 00 Inbox, links update automatically when you rename a note, and Daily notes and Templates are switched on.
+
+## Not a surgeon?
+The CLAUDE.md here is a blank template. For filled-in examples for eight specialties and roles, see:
+https://jaymarciloreta-jpg.github.io/context-engineering-for-physicians/04-Templates-and-Recipes/Example-CLAUDE-Files
+
 ## What is inside
 - CLAUDE.md: your about-me file. Claude reads it automatically.
 - 00 Inbox to 04 Archive: the PARA folders.

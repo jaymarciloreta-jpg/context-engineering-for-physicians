@@ -43,4 +43,4 @@ Run the recipe in skills/weekly-plan.md using my real calendar.
 
 More: [[C2 - Connections]].
 
-**Next:** [[Lesson 8 - Put It on a Schedule]]
+**Previous:** [[Lesson 6 - Save Your Recipes]] · **Next:** [[Lesson 8 - Put It on a Schedule]]

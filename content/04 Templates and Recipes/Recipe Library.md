@@ -3,6 +3,7 @@ title: Recipe Library
 status: published
 tags: [recipes, skills, capabilities]
 date: 2026-10-01
+description: "Copy-paste recipes (skills) for patient handouts, letters, paper summaries, email triage, weekly plans, meeting notes, and talk outlines."
 ---
 Ready-made recipes (skills). Copy one into the `skills/` folder of your vault, then say "run the recipe in skills/[name].md". Edit them freely; they are just text. All of them are included in the [[Starter Kit]].
 

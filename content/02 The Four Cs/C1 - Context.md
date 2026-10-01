@@ -3,6 +3,7 @@ title: C1 - Context
 status: published
 tags: [four-cs, context]
 date: 2026-10-01
+description: "Why context beats better prompts, how to write a CLAUDE.md, and how to organize notes so AI stays focused."
 ---
 Context is the first and most important of the Four C's. It is everything the AI knows about you before you ask it to do anything: your specialty, your audiences, how you write, what a good result looks like, and what to avoid. Get this right and every answer improves. Skip it and you get the same generic output everyone else gets.
 

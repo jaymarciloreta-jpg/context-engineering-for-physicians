@@ -22,7 +22,7 @@ About 15 minutes. At the end you will have a notes folder (Obsidian calls it a *
 
 ## Step 3: Four settings worth changing
 
-Open **Settings** (the gear icon, bottom left) and change these:
+Using the [[Starter Kit]]? These are already set; skip to Step 4. Otherwise, open **Settings** (the gear icon, bottom left) and change these:
 
 1. **Files and links → Default location for new notes:** set to `00 Inbox` (you will create this folder in [[Set Up Your Workspace in One Sitting]]). New notes land there until you file them.
 2. **Files and links → Automatically update internal links:** turn on. Renaming a note will fix every link to it.

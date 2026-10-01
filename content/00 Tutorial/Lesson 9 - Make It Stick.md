@@ -40,3 +40,5 @@ you see in my projects and daily notes.
 - Share it: send a colleague this site, or your favorite recipe file.
 
 You are done with the tutorial.
+
+**Previous:** [[Lesson 8 - Put It on a Schedule]] · **Back to:** [[00 Tutorial/index|Tutorial overview]]

@@ -43,4 +43,4 @@ show me a table of where each one would go. Do not move anything until I approve
 
 More detail: [[C1 - Context]] and [[Set Up Your Workspace in One Sitting]].
 
-**Next:** [[Lesson 4 - Write Your About-Me File]]
+**Previous:** [[Lesson 2 - Your First Win]] · **Next:** [[Lesson 4 - Write Your About-Me File]]

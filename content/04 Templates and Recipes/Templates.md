@@ -4,7 +4,7 @@ status: published
 tags: [templates, context]
 date: 2026-10-01
 ---
-Copy these into your vault and fill in the brackets. Shorter is better: a page you keep current beats three pages you do not.
+Copy these into your vault and fill in the brackets. Want a head start? See [[Example CLAUDE Files|example CLAUDE.md files for eight specialties and roles]]. Shorter is better: a page you keep current beats three pages you do not.
 
 ## Your CLAUDE.md (top of the vault)
 

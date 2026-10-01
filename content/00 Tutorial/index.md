@@ -3,16 +3,14 @@ title: Tutorial
 status: published
 tags: [tutorial, getting-started]
 date: 2026-10-01
+description: "Nine short lessons, self-guided or coached live by Claude, that build a working AI setup for a physician in about two hours."
 ---
 Nine short lessons that take you from zero to a working setup. Each one ends with something real saved in your vault. Do one a day, or all of them in an afternoon (about 2 hours total).
 
 There are two ways to take the tutorial. Pick whichever suits you; they cover the same lessons.
 
-| | Self-guided | Claude-guided |
-|---|---|---|
-| How it works | Read each lesson and follow the steps | Claude coaches you live, asks you questions, and builds the files with you |
-| Best for | People who like to read first, or want to see everything before starting | People who learn by doing and want a personal setup fast |
-| You need | Obsidian and Claude | Obsidian, Claude, and the free [[Interactive Tutorial\|coach skill]] |
+- **Self-guided:** read each lesson and follow the steps. Best if you like to see everything before starting. You need Obsidian and Claude.
+- **Claude-guided:** Claude coaches you live, asks you questions, and builds the files with you. Best if you learn by doing. You also need the free [[Interactive Tutorial|coach skill]].
 
 Every lesson has a **"Do it with Claude"** prompt, so you can mix the two: read the lesson, then paste the prompt.
 

@@ -3,6 +3,7 @@ title: Start Here
 status: published
 tags: [start-here, context-engineering]
 date: 2026-10-01
+description: "A plain-language guide for physicians: move from one-off AI prompting to a setup that knows your practice, reaches your tools, and runs on its own."
 ---
 Most doctors use AI like a search box. You open it, type a question, read the answer, and close it. That is fine, and it is a good start. But it is the smallest thing these tools can do, and it means you redo the same setup work every single time.
 
@@ -11,8 +12,8 @@ There is a bigger way to use it. Instead of explaining yourself over and over, y
 That setup has a name: **context engineering**. It sounds technical. It is not. It just means giving the AI the right background, once, in a place it can find it.
 
 > [!tip] Two ways in
-> **Learn by doing:** take the [[00 Tutorial/index|Tutorial]], nine short lessons that build your setup step by step. Follow it yourself, or let Claude coach you live with the [[Interactive Tutorial|tutorial skill]].
-> **Read first:** keep going on this page, then work through the Four C's.
+> - **Learn by doing:** take the [[00 Tutorial/index|Tutorial]], nine short lessons that build your setup step by step. Follow it yourself, or let Claude coach you live with the [[Interactive Tutorial|tutorial skill]].
+> - **Read first:** keep going on this page, then work through the Four C's.
 
 ## Who this is for
 
@@ -42,12 +43,13 @@ When you only type questions into a chat box, three things hold you back:
 
 You fix all three with four simple pieces. None of them need coding.
 
-| | What it is | In one line |
-|---|---|---|
-| [[C1 - Context\|Context]] | What the AI knows about you | Plain notes plus a short "about me" file it reads every time |
-| [[C2 - Connections\|Connections]] | What the AI can reach | Safe links to your email, calendar, files, and references |
-| [[C3 - Capabilities\|Capabilities]] | What the AI can do | Saved recipes that turn weekly tasks into a 2-minute review |
-| [[C4 - Cadence\|Cadence]] | When the AI runs | Tasks on a schedule: a morning brief, a weekly digest |
+<div style="display:flex;flex-wrap:wrap;gap:0.5rem;align-items:stretch;margin:1.5rem 0;">
+<a href="./02-The-Four-Cs/C1---Context" style="flex:1 1 140px;text-decoration:none;color:inherit;background:none;border:1px solid var(--lightgray);border-top:4px solid var(--secondary);border-radius:8px;padding:0.75rem 0.9rem;"><div style="font-size:0.8rem;color:var(--gray);">Step 1</div><div style="font-weight:700;color:var(--secondary);font-size:1.1rem;">Context</div><div style="font-size:0.95rem;">what it knows</div><div style="font-size:0.85rem;color:var(--darkgray);opacity:0.8;">CLAUDE.md and your notes</div></a>
+<a href="./02-The-Four-Cs/C2---Connections" style="flex:1 1 140px;text-decoration:none;color:inherit;background:none;border:1px solid var(--lightgray);border-top:4px solid var(--secondary);border-radius:8px;padding:0.75rem 0.9rem;"><div style="font-size:0.8rem;color:var(--gray);">Step 2</div><div style="font-weight:700;color:var(--secondary);font-size:1.1rem;">Connections</div><div style="font-size:0.95rem;">what it can reach</div><div style="font-size:0.85rem;color:var(--darkgray);opacity:0.8;">calendar, email, files</div></a>
+<a href="./02-The-Four-Cs/C3---Capabilities" style="flex:1 1 140px;text-decoration:none;color:inherit;background:none;border:1px solid var(--lightgray);border-top:4px solid var(--secondary);border-radius:8px;padding:0.75rem 0.9rem;"><div style="font-size:0.8rem;color:var(--gray);">Step 3</div><div style="font-weight:700;color:var(--secondary);font-size:1.1rem;">Capabilities</div><div style="font-size:0.95rem;">what it can do</div><div style="font-size:0.85rem;color:var(--darkgray);opacity:0.8;">saved recipes</div></a>
+<a href="./02-The-Four-Cs/C4---Cadence" style="flex:1 1 140px;text-decoration:none;color:inherit;background:none;border:1px solid var(--lightgray);border-top:4px solid var(--secondary);border-radius:8px;padding:0.75rem 0.9rem;"><div style="font-size:0.8rem;color:var(--gray);">Step 4</div><div style="font-weight:700;color:var(--secondary);font-size:1.1rem;">Cadence</div><div style="font-size:0.95rem;">when it runs</div><div style="font-size:0.85rem;color:var(--darkgray);opacity:0.8;">scheduled tasks</div></a>
+</div>
+<p style="font-size:0.9rem;color:var(--gray);margin-top:-0.75rem;">Each step builds on the one before. What you learn from the results goes back into your notes, so the loop gets better every week.</p>
 
 Each part builds on the one before it. Knowing things is no use if the AI cannot reach your work. Reaching your work is no use if it cannot act. And acting still waits on you unless it runs on a schedule.
 
@@ -77,3 +79,4 @@ Once it is set up, the same assistant can help across your day:
 3. Read the Four C's in order, starting with [[C1 - Context]], to understand why it works.
 4. Grab the [[Starter Kit]] to skip the setup.
 5. Before connecting anything, read [[Patient Privacy and PHI]].
+6. Keep the one-page [[Cheat Sheet]] handy.

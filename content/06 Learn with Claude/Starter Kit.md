@@ -3,6 +3,7 @@ title: Starter Kit
 status: published
 tags: [starter-kit, templates, obsidian]
 date: 2026-10-01
+description: "Download a ready-made Obsidian vault for physicians with PARA folders, a CLAUDE.md template, and 13 recipes."
 ---
 A ready-made Obsidian vault so you can skip the setup and start filling in.
 
@@ -15,6 +16,7 @@ You can also [browse every file on GitHub](https://github.com/jaymarciloreta-jpg
 ```text
 Physician Starter Vault/
   README.md              how to use the kit
+  .obsidian/             settings, preconfigured
   CLAUDE.md              your about-me file, with brackets to fill in
   00 Inbox/              new notes land here
   01 Projects/
@@ -30,6 +32,8 @@ Physician Starter Vault/
 ```
 
 The 13 recipes: patient handout, thank-you letter, abstract, paper summary, email triage, meeting actions, weekly plan, talk outline, vault tidy-up, morning brief, evening sort, weekly digest, and literature watch. Each is explained on the [[Recipe Library]] and [[Scheduled Recipes]] pages.
+
+Obsidian settings come preconfigured: new notes land in `00 Inbox`, links update when you rename notes, and Daily notes and Templates are already on, so you can skip step 3 of [[Install Obsidian]].
 
 ## Set it up in four steps
 

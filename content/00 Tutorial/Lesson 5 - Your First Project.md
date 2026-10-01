@@ -48,4 +48,4 @@ line to log.md about what we did today.
 
 More: [[Projects and Papers]] and [[Research and Literature]].
 
-**Next:** [[Lesson 6 - Save Your Recipes]]
+**Previous:** [[Lesson 4 - Write Your About-Me File]] · **Next:** [[Lesson 6 - Save Your Recipes]]

@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Start Here": "https://jaymarciloreta-jpg.github.io/context-engineering-for-physicians/",
       Tutorial: "https://jaymarciloreta-jpg.github.io/context-engineering-for-physicians/00-Tutorial/",
+      "Suggest an edit": "https://github.com/jaymarciloreta-jpg/context-engineering-for-physicians/issues/new?template=suggestion.md",
       GitHub: "https://github.com/jaymarciloreta-jpg/context-engineering-for-physicians",
     },
   }),
@@ -49,10 +50,10 @@ export const defaultContentPageLayout: PageLayout = {
           "Your 20-Minute First Win","Your AI Toolkit","Install Obsidian","Set Up Claude","Set Up Your Workspace in One Sitting",
           "C1 - Context","C2 - Connections","C3 - Capabilities","C4 - Cadence",
           "Research and Literature","Projects and Papers","Administration and Email","Talks and Teaching","Ideas Devices and CAD",
-          "Templates","Recipe Library","Scheduled Recipes",
+          "Templates","Example CLAUDE.md Files","Recipe Library","Scheduled Recipes",
           "Patient Privacy and PHI","Keep a Human in the Loop","When AI Gets It Wrong",
           "Interactive Tutorial","Starter Kit",
-          "How I Use This","Glossary","FAQ","Sources and Further Reading",
+          "How I Use This","Cheat Sheet","Glossary","FAQ","Sources and Further Reading",
         ]
         if (a.isFolder && b.isFolder) return a.slugSegment.localeCompare(b.slugSegment)
         if (a.isFolder !== b.isFolder) return a.isFolder ? 1 : -1
@@ -93,10 +94,10 @@ export const defaultListPageLayout: PageLayout = {
           "Your 20-Minute First Win","Your AI Toolkit","Install Obsidian","Set Up Claude","Set Up Your Workspace in One Sitting",
           "C1 - Context","C2 - Connections","C3 - Capabilities","C4 - Cadence",
           "Research and Literature","Projects and Papers","Administration and Email","Talks and Teaching","Ideas Devices and CAD",
-          "Templates","Recipe Library","Scheduled Recipes",
+          "Templates","Example CLAUDE.md Files","Recipe Library","Scheduled Recipes",
           "Patient Privacy and PHI","Keep a Human in the Loop","When AI Gets It Wrong",
           "Interactive Tutorial","Starter Kit",
-          "How I Use This","Glossary","FAQ","Sources and Further Reading",
+          "How I Use This","Cheat Sheet","Glossary","FAQ","Sources and Further Reading",
         ]
         if (a.isFolder && b.isFolder) return a.slugSegment.localeCompare(b.slugSegment)
         if (a.isFolder !== b.isFolder) return a.isFolder ? 1 : -1

@@ -37,4 +37,4 @@ Run the recipe in skills/morning-brief.md every weekday at 6:00 am.
 
 More: [[C4 - Cadence]].
 
-**Next:** [[Lesson 9 - Make It Stick]]
+**Previous:** [[Lesson 7 - Connect One Tool]] · **Next:** [[Lesson 9 - Make It Stick]]

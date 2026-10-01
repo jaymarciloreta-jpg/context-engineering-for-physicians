@@ -1,3 +1,15 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Site tweaks: smaller title on phones so header icons fit
+@media all and ($mobile) {
+  .page-title {
+    font-size: 1.35rem;
+    line-height: 1.2;
+  }
+}
+.page-title {
+  font-size: 1.6rem;
+}

@@ -3,6 +3,7 @@ title: Patient Privacy and PHI
 status: published
 tags: [safety, privacy, phi, hipaa]
 date: 2026-10-01
+description: "What patient information is, the three tiers of data, and the practical rules for keeping PHI out of AI tools that are not approved for it."
 ---
 This is the most important page on the site. The rest of the wiki is about doing more with AI; this page is about the line you do not cross.
 
