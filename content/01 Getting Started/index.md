@@ -12,4 +12,4 @@ Everything you need to go from zero to a working setup. Do these in order. Total
 4. [[Set Up Claude]]: your AI assistant, pointed at your notes.
 5. [[Set Up Your Workspace in One Sitting]]: folders, your "about me" file, and your first project, in about an hour.
 
-If you would rather have Claude walk you through all of this interactively, use the [[Interactive Tutorial]] instead.
+Want a step-by-step path instead? Take the [[00 Tutorial/index|Tutorial]]: nine short lessons, self-guided or coached live by Claude through the [[Interactive Tutorial]].

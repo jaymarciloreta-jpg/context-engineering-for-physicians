@@ -32,4 +32,4 @@ No. Start a fresh vault with the [[Starter Kit]] and let old notes stay where th
 Yes. Recipes are text files. Email them, drop them in a shared folder, or add them to a team's Claude workspace. Just make sure they contain no patient information.
 
 ### Who made this, and can I contribute?
-Dr. Alfred-Marc (Jaymarc) Iloreta, an ENT and skull base surgeon at Mount Sinai. Suggestions and corrections are welcome through the [GitHub repository](https://github.com/jaymarciloreta-jpg/context-engineering-for-physicians).
+Dr. Alfred-Marc (Jaymarc) Iloreta, an ENT and skull base surgeon. Suggestions and corrections are welcome through the [GitHub repository](https://github.com/jaymarciloreta-jpg/context-engineering-for-physicians).

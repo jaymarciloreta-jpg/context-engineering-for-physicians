@@ -10,14 +10,15 @@ There is a bigger way to use it. Instead of explaining yourself over and over, y
 
 That setup has a name: **context engineering**. It sounds technical. It is not. It just means giving the AI the right background, once, in a place it can find it.
 
-> [!tip] Short on time?
-> Do the [[Your 20-Minute First Win|20-minute first win]] today. It is the fastest way to feel the difference. Then come back and read the rest.
+> [!tip] Two ways in
+> **Learn by doing:** take the [[00 Tutorial/index|Tutorial]], nine short lessons that build your setup step by step. Follow it yourself, or let Claude coach you live with the [[Interactive Tutorial|tutorial skill]].
+> **Read first:** keep going on this page, then work through the Four C's.
 
 ## Who this is for
 
 This wiki is written for practicing physicians who are not programmers. You will not need to write code. Every page uses plain language, and every example is something you can copy, paste, and use the same day. If a term sounds technical, it is in the [[Glossary]].
 
-It was built by Dr. Alfred-Marc (Jaymarc) Iloreta, an ENT and skull base surgeon at Mount Sinai, after colleagues asked how he organizes research, projects, and administrative work with AI. The examples lean surgical, but the method works for any specialty.
+It was built by Dr. Alfred-Marc (Jaymarc) Iloreta, an ENT and skull base surgeon, after colleagues asked how he organizes research, projects, and administrative work with AI. The examples lean surgical, but the method works for any specialty.
 
 ## Why a physician should care
 
@@ -71,8 +72,8 @@ Once it is set up, the same assistant can help across your day:
 
 ## Where to go next
 
-1. Do the [[Your 20-Minute First Win]].
-2. Set up your [[Your AI Toolkit|toolkit]]: [[Install Obsidian]] and [[Set Up Claude]].
-3. Build your [[Set Up Your Workspace in One Sitting|workspace in one sitting]].
-4. Read the Four C's in order, starting with [[C1 - Context]].
-5. Prefer to learn by doing? Let Claude teach you, step by step, with the [[Interactive Tutorial]].
+1. **Take the [[00 Tutorial/index|Tutorial]].** Nine lessons, about 2 hours, self-guided or Claude-guided. Start with [[Lesson 1 - Install the Tools]].
+2. Or start smaller: the [[Your 20-Minute First Win|20-minute first win]].
+3. Read the Four C's in order, starting with [[C1 - Context]], to understand why it works.
+4. Grab the [[Starter Kit]] to skip the setup.
+5. Before connecting anything, read [[Patient Privacy and PHI]].

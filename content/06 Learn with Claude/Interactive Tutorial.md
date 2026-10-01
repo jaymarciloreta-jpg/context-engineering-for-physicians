@@ -8,17 +8,7 @@ Instead of reading the whole wiki, let Claude teach you. The **Physician Context
 
 ## What you will build
 
-| Module | Time | You end up with |
-|---|---|---|
-| 0. Orientation | 3 min | A clear picture of the Four C's for your week |
-| 1. First win | 15 min | A finished piece of work and your first recipe |
-| 2. Organize the vault | 10 min | The PARA folders |
-| 3. A real CLAUDE.md | 15 min | Your full about-me file |
-| 4. First project | 15 min | A project folder with a working brief |
-| 5. Recipes | 10 min | One or two recipes tailored to you |
-| 6. Connections | 10 min | Your first connector (calendar), safely |
-| 7. Cadence | 5 min | A scheduled morning brief or weekly digest |
-| 8. Wrap up | 3 min | A one-week plan to make it stick |
+The coach teaches the same nine lessons as the self-guided [[00 Tutorial/index|Tutorial]], from installing the tools to a task running on a schedule. About 2 hours in total. Claude shares each lesson page with you as you go, so you can always read ahead or look back.
 
 ## Option A: Install the skill (recommended)
 
@@ -37,7 +27,7 @@ If you cannot install skills, open a task on your folder and paste this:
 Please act as my tutor for setting up context engineering as a physician.
 Read the tutorial instructions at
 https://github.com/jaymarciloreta-jpg/context-engineering-for-physicians/blob/main/kits/physician-context-coach/SKILL.md
-and follow them exactly, starting at Module 0. Keep messages short and
+and follow them exactly, starting at Lesson 1. Keep messages short and
 wait for me after each step. Never use real patient information.
 ```
 
@@ -47,4 +37,4 @@ The coach is instructed to refuse patient information, never send or delete anyt
 
 ## Want to read instead?
 
-Everything the tutorial teaches is on this site, starting at [[index|Start Here]].
+Follow the self-guided [[00 Tutorial/index|Tutorial]], one lesson at a time. Each lesson has a "Do it with Claude" prompt you can paste if you get stuck.
