@@ -9,6 +9,20 @@ Ready-made recipes (skills). Copy one into the `skills/` folder of your vault, t
 
 Every recipe follows the same safe pattern: read your context, do the work, save a draft, show you, and never send or delete anything on its own.
 
+## Choose a recipe by the input you have
+
+| You have | Use | Check before using the result |
+|---|---|---|
+| A meeting note | Meeting note to action items | Owners and dates match the original; missing details stay explicit |
+| A paper and a question | Paper summary | Each finding is supported by the supplied paper |
+| A manuscript draft | Abstract from a draft | Every result and number matches the manuscript |
+| A teaching topic | Talk outline | The scope and length suit the audience |
+| Project briefs and loose tasks | Weekly plan | Commitments are accurate and the plan fits available time |
+
+**Want to see the whole loop first?** [[Practice - Meeting Notes to Actions]] includes input, a prompt, and a result checklist.
+
+A recipe saved in your vault is a text file you ask the assistant to read. It is not automatically an installed skill or a scheduled task. If the assistant cannot access your folder, paste the recipe into the conversation and save the result yourself.
+
 ## Writing
 
 ### Patient handout

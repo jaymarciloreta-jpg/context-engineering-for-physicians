@@ -8,13 +8,16 @@ The fastest way to understand this is to do one small thing and feel the differe
 
 You need two things: the Claude desktop app (see [[Set Up Claude]]) and a folder on your computer. If you already have Obsidian, use your notes folder. If not, make an empty folder called `AI` for now.
 
+> [!tip] Prefer a fully worked example?
+> Try [[Practice - Meeting Notes to Actions]] first. It includes fictional source notes and a checklist of the correct result.
+
 ## The task
 
 You will give the AI a little background about you, then have it do one real piece of work that sounds like you. We use a patient education handout because it is useful, shareable, and needs no private information. If you prefer, swap in one of the alternatives at the bottom.
 
 ## Step 1: Tell the AI who you are (5 minutes)
 
-In your folder, make a new note called `CLAUDE.md` (Claude looks for a file with exactly this name and reads it automatically). Write a few plain lines, for example:
+In your folder, make a new note called `CLAUDE.md` (we use this filename throughout the wiki; explicitly ask Claude to read it and confirm the relevant instructions before starting). Write a few plain lines, for example:
 
 ```markdown
 # About me

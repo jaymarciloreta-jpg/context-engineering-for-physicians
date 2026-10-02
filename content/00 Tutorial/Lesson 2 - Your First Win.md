@@ -6,6 +6,9 @@ date: 2026-10-01
 ---
 **Goal:** feel the difference context makes, on one real task. **Time:** 20 minutes.
 
+> [!tip] Nothing ready to work on?
+> Use [[Practice - Meeting Notes to Actions]]. It includes fictional input and an answer checklist, so you can complete this lesson without preparing your own material.
+
 ## Steps
 
 1. **Write a tiny CLAUDE.md.** In your vault, create a note named exactly `CLAUDE.md` with four or five lines: your specialty, who you write for, and how you like things written.

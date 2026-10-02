@@ -4,7 +4,13 @@ status: published
 tags: [getting-started, setup]
 date: 2026-10-01
 ---
-Everything you need to go from zero to a working setup. Do these in order. Total time: about two hours, spread over a week if you like.
+Pick one route. You do not need to finish this reference section before taking the tutorial.
+
+- **Try the idea first:** [[Practice - Meeting Notes to Actions]] has fictional source notes, a prompt, and an answer checklist. Allow about 10 minutes.
+- **Build a complete setup:** follow the [[00 Tutorial/index|nine-lesson tutorial]]. Allow about two hours, spread over several days if you like.
+- **Look up a specific step:** use the pages below as reference. If a step is already working, skip it.
+
+## Setup reference
 
 1. [[Your 20-Minute First Win]]: feel the difference on one real task, today.
 2. [[Your AI Toolkit]]: the four tools, what each one is for, and which ones you actually need.

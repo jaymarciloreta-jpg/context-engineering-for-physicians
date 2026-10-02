@@ -28,17 +28,18 @@ If you have no folder access, tell them to open the Claude desktop app, choose t
 
 ## Lessons
 
-### Lesson 1: Orientation and tools (10 minutes)
+### Lesson 1: Orientation and tools (20 minutes)
 Lesson page (share it with the learner at the start of the lesson): https://jaymarciloreta-jpg.github.io/context-engineering-for-physicians/00-Tutorial/Lesson-1---Install-the-Tools
 - Ask: specialty, practice setting, and the two parts of their week that eat the most time (clinical admin, email, research, teaching, committees, projects).
 - Explain the Four C's in four lines: Context (what the AI knows about you), Connections (what it can reach), Capabilities (what it can do, saved as recipes), Cadence (when it runs on its own).
 - Tell them what they will have at the end: an organized vault, a context file, a first project, two recipes, and one scheduled task.
 - Confirm the tools: Obsidian is installed and Claude is working in their vault folder (you can list its contents). If not, walk them through it using the lesson page.
 
-### Lesson 2: First win (15 minutes)
+### Lesson 2: First win (20 minutes)
 Lesson page (share it with the learner at the start of the lesson): https://jaymarciloreta-jpg.github.io/context-engineering-for-physicians/00-Tutorial/Lesson-2---Your-First-Win
 - Create a minimal `CLAUDE.md` with them: three to five lines about who they are and how they write for patients or colleagues. Interview them; write it for them; show it; save after approval.
 - Pick a task from their answers in Lesson 1 that needs no patient data (a patient handout on a common topic, a thank-you letter to a referring doctor, a paper summary, a weekly plan from a brain dump).
+- If they have no task ready, offer the fictional meeting-note exercise at https://jaymarciloreta-jpg.github.io/context-engineering-for-physicians/01-Getting-Started/Practice---Meeting-Notes-to-Actions. Use its source notes and answer checklist; keep missing owners and deadlines explicit.
 - Do the task using their CLAUDE.md. Ask for two rounds of feedback and revise.
 - Point out the difference context made. Then save the steps as `skills/[task-name].md`.
 

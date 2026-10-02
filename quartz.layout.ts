@@ -47,7 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
         const order = [
           "Lesson 1 - Install the Tools","Lesson 2 - Your First Win","Lesson 3 - Organize Your Vault","Lesson 4 - Write Your About-Me File",
           "Lesson 5 - Your First Project","Lesson 6 - Save Your Recipes","Lesson 7 - Connect One Tool","Lesson 8 - Put It on a Schedule","Lesson 9 - Make It Stick",
-          "Your 20-Minute First Win","Your AI Toolkit","Install Obsidian","Set Up Claude","Set Up Your Workspace in One Sitting",
+          "Practice - Meeting Notes to Actions","Your 20-Minute First Win","Your AI Toolkit","Install Obsidian","Set Up Claude","Set Up Your Workspace in One Sitting",
           "C1 - Context","C2 - Connections","C3 - Capabilities","C4 - Cadence",
           "Research and Literature","Projects and Papers","Administration and Email","Talks and Teaching","Ideas Devices and CAD",
           "Templates","Example CLAUDE.md Files","Recipe Library","Scheduled Recipes",
@@ -91,7 +91,7 @@ export const defaultListPageLayout: PageLayout = {
         const order = [
           "Lesson 1 - Install the Tools","Lesson 2 - Your First Win","Lesson 3 - Organize Your Vault","Lesson 4 - Write Your About-Me File",
           "Lesson 5 - Your First Project","Lesson 6 - Save Your Recipes","Lesson 7 - Connect One Tool","Lesson 8 - Put It on a Schedule","Lesson 9 - Make It Stick",
-          "Your 20-Minute First Win","Your AI Toolkit","Install Obsidian","Set Up Claude","Set Up Your Workspace in One Sitting",
+          "Practice - Meeting Notes to Actions","Your 20-Minute First Win","Your AI Toolkit","Install Obsidian","Set Up Claude","Set Up Your Workspace in One Sitting",
           "C1 - Context","C2 - Connections","C3 - Capabilities","C4 - Cadence",
           "Research and Literature","Projects and Papers","Administration and Email","Talks and Teaching","Ideas Devices and CAD",
           "Templates","Example CLAUDE.md Files","Recipe Library","Scheduled Recipes",

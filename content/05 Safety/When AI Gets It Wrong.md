@@ -34,7 +34,19 @@ When something goes wrong, correct it, and then ask why it happened:
 - **Too much in one conversation?** Split the task. One task per conversation.
 - **Wrong file?** Check folder names and the "How this vault is organized" section of `CLAUDE.md`.
 
-Every fix you write down is a mistake that does not repeat. That is how the setup gets better over time.
+Writing down a correction makes the expected behavior clearer, but it does not guarantee the mistake will disappear. Run the recipe again on a small example and check the result.
+
+## When the setup gets stuck
+
+| Symptom | Check | Next step |
+|---|---|---|
+| "I cannot see that file" | Is the correct folder selected, or was the file attached? | Provide one practice file and ask the assistant to identify it before continuing. |
+| It ignores your writing preferences | Did it read the current context file? | Ask it to summarize the relevant rules from that file, then retry one paragraph. |
+| It says it saved a file, but you cannot find it | Was file access available? What exact path did it use? | Open the file yourself. In chat-only mode, copy the result into a note. |
+| A recipe does not run by name | Can the assistant access the recipe? | Give the exact filename or paste its contents. |
+| A draft looks convincing but the source is unavailable | Can you open the original material? | Treat the unsupported part as unverified; do not ask the AI to guess the missing evidence. |
+
+Use [[Practice - Meeting Notes to Actions]] to test the workflow again with known inputs.
 
 ## When a scheduled task breaks
 

@@ -11,9 +11,16 @@ There is a bigger way to use it. Instead of explaining yourself over and over, y
 
 That setup has a name: **context engineering**. It sounds technical. It is not. It just means giving the AI the right background, once, in a place it can find it.
 
-> [!tip] Two ways in
-> - **Learn by doing:** take the [[00 Tutorial/index|Tutorial]], nine short lessons that build your setup step by step. Follow it yourself, or let Claude coach you live with the [[Interactive Tutorial|tutorial skill]].
-> - **Read first:** keep going on this page, then work through the Four C's.
+## Choose your next step
+
+| What you need today | Start here | You will leave with |
+|---|---|---|
+| Try one task, about 10 minutes | [[Practice - Meeting Notes to Actions|Try the worked example]] | An action list you can check against the original notes |
+| Build your setup, about two hours | [[00 Tutorial/index|Take the nine-lesson tutorial]] | A context file, project folder, and reusable recipes |
+| Have Claude guide you | [[Interactive Tutorial|Use the tutorial coach]] | Help through the same lessons, one step at a time |
+| Already have a setup | [[Recipe Library|Choose a recipe]] | A repeatable workflow for a task you already do |
+
+**New here? Start with the worked example.** It includes all the practice material. No patient data, email connection, or calendar access is needed. For the full reference path, see [[01 Getting Started/index|Getting Started]].
 
 ## Who this is for
 
@@ -35,9 +42,9 @@ This is not about replacing judgment. Judgment stays with you. It is about takin
 
 When you only type questions into a chat box, three things hold you back:
 
-- **You repeat yourself.** Every chat starts from zero. The AI does not know your specialty, your audience, or how you like things written, so you explain it all again.
-- **It cannot see your work.** A chat box cannot open your inbox, your calendar, your PDFs, or last week's draft. So you become the messenger, copying things in and pasting answers out.
-- **It forgets.** Close the window and it is gone. Nothing builds up, so you never get a setup that improves the more you use it.
+- **You repeat yourself.** Without reusable instructions, you may need to explain your specialty, audience, and writing preferences again.
+- **It cannot see your work.** The AI can only use material available in that session through attachments, project files, or permitted connections. If the relevant draft is missing, you become the messenger.
+- **It forgets.** Chat history and memory can help, but do not guarantee that the right details will be used on the next task. A short, current project brief makes those details easier to review and reuse.
 
 ## The four parts that fix this (the Four C's)
 

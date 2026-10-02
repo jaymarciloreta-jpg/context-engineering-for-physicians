@@ -14,10 +14,10 @@ Obsidian is free. Claude's folder, connector, skill, and scheduling features nee
 Not with a personal setup. Identifiable patient information belongs only in tools your institution has approved for it. Almost all the value here (email, planning, writing, research, teaching) needs no patient data. Read [[Patient Privacy and PHI]].
 
 ### Can I use ChatGPT, Gemini, or another AI instead?
-The method carries over: plain notes, a context file, connected tools, saved recipes, and schedules. Specific steps on this site use Claude because it reads `CLAUDE.md` files automatically and works directly in your folders. Other tools have similar features under different names.
+The method carries over: plain notes, a context file, connected tools, saved recipes, and schedules. Specific steps on this site use Claude and a context file named `CLAUDE.md`. In any tool, explicitly supply the relevant context or ask it to read the file; confirm what it used. Folder access and instruction settings differ between products and modes.
 
 ### Why Obsidian instead of Word, OneNote, or Notion?
-Obsidian stores everything as plain text files on your own computer. That makes them private, permanent, easy for AI to read and edit, and impossible to lose to a company shutting down. Notion and others can work too, through connectors.
+Obsidian stores notes as local Markdown files that other text editors can open. You can keep using those files independently of Obsidian. Local storage alone does not guarantee privacy or prevent data loss: protect the device and keep a separate backup. Syncing is not a backup. See [Obsidian's backup guide](https://help.obsidian.md/backup). Notion and other tools can work too, through their supported connections.
 
 ### How long until this is useful?
 The [[Your 20-Minute First Win|first win]] takes 20 minutes. A basic setup takes about an hour ([[Set Up Your Workspace in One Sitting]]). Most people feel a real difference in their week within two or three weeks of steady use.
