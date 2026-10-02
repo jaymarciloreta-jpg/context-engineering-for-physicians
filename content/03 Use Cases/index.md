@@ -11,3 +11,5 @@ The Four C's applied to the actual work of a physician. Each page shows the fold
 - [[Administration and Email]]: inbox triage, drafted replies, meetings to action items, weekly planning.
 - [[Talks and Teaching]]: grand rounds, resident lectures, teaching cases, and quizzes.
 - [[Ideas Devices and CAD]]: thinking through new techniques and device concepts, from napkin to early CAD.
+
+- [[CT Scans and 3D Slicer with MCP]]: connect AI to Slicer for CT views, supervised segmentation, research measurements, and 3D teaching models.

@@ -47,3 +47,7 @@ AI can help you get from words to early 3D shapes:
 
 > [!warning] Protect your idea
 > Before sharing a potentially patentable idea in any tool, check your institution's policies on invention disclosure and which AI tools are approved for confidential work. Talk to your tech transfer office early.
+
+## Start from imaging when anatomy matters
+
+[[CT Scans and 3D Slicer with MCP]] covers preparing a reviewed anatomical surface model from CT for teaching or early design discussion. Keep the original segmentation and record scale and orientation when transferring a model to CAD. A teaching mesh is not a validated patient-specific device design.

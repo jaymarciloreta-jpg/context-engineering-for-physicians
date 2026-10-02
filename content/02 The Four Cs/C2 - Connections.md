@@ -4,7 +4,7 @@ status: published
 tags: [four-cs, connections, mcp]
 date: 2026-10-01
 ---
-Context tells the AI who you are. Connections give it hands. A connection is a safe link between the AI and a tool you already use, so it can pull in real information and, when you allow it, take real action. This is the step that turns the AI from a clever advisor into something that does work for you.
+Context tells the AI who you are. Connections give it hands. A connection is a permissioned link between the AI and a tool you already use, so it can pull in real information and, when you allow it, take real action. This is the step that turns the AI from a clever advisor into something that does work for you.
 
 Without connections, the AI can only read the files in your folder. With them, it can read your calendar to plan your week, search PubMed for a paper, or draft a reply sitting in your inbox.
 
@@ -18,7 +18,7 @@ You add a connector once, sign in to that tool as you normally would, and from t
 
 Every connection works in one or both directions, and the difference matters.
 
-- **Read access** lets the AI look at information. Reading your calendar to see your week. Searching the literature. Opening a document in your drive. This is low risk; it only looks.
+- **Read access** lets the AI look at information. Reading your calendar to see your week. Searching the literature. Opening a document in your drive. It does not change the source, but it can still expose sensitive information to the AI service.
 - **Do access** lets the AI take action. Drafting and sending an email. Adding a calendar event. Creating a task. This is where the real time savings are, and also where you want to be careful at first.
 
 A good habit early on: keep the AI in **draft mode**. Let it prepare the email or the event, and you press send. As you build trust in a specific task, you can let it act on its own.
@@ -37,6 +37,12 @@ Do not connect everything at once. Pick the two or three tools where you lose th
 | Slides (presentation tools) | Building decks from an outline | "Turn this outline into a 12-slide talk." |
 
 Add one, use it for simple tasks until it feels reliable, then add the next. Two solid connections beat ten you do not trust.
+
+## A more advanced example: 3D Slicer
+
+An MCP bridge can also connect an assistant to desktop imaging software. With **3D Slicer**, it can inspect the open scene, help arrange CT views, and run processing steps you review. This usually requires a community bridge and client-specific setup, rather than a one-click account sign-in. Start with public sample data.
+
+See [[CT Scans and 3D Slicer with MCP]] for available bridges, a first connection check, and copyable prompts. Local image processing does not guarantee that tool responses or screenshots stay local.
 
 ## The hard line: patient information and permissions
 

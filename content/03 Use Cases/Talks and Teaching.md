@@ -41,3 +41,7 @@ down to the essentials for that audience.
 ```
 
 The more you keep, the less you rebuild.
+
+## CT-based teaching images
+
+For teaching views and reviewed 3D anatomy models from public CT data, see [[CT Scans and 3D Slicer with MCP]]. It explains how an assistant can help operate Slicer while you verify the anatomy.
